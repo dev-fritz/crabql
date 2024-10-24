@@ -1,0 +1,10 @@
+[package]
+name = "crabql"
+version = "0.0.1"
+edition = "2021"
+
+[dependencies]
+crossterm = "0.28.1"
+tui = "0.19.0"
+rand ="*"
+unicode-width = "0.2.0"
